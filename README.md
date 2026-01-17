@@ -1,5 +1,5 @@
 # Recurrent Interpolants for GOOG stock Forecasting
-
+LLM Assisted / Vibe Coded 
 ## How To Run?
 
 Download notebook from here directly (No cloning required) or copy code. Then upload notebook/code onto a Jupyter Notebook environment (Google Colab, Vscode, etc.) and run all cells in order. No scripts or external data required since everything is extracted in notebook.
